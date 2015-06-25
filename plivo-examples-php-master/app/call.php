@@ -1,4 +1,5 @@
 <?php
+echo "hello";
 require_once 'lib/plivo.php';
 
 $auth_id = '';
